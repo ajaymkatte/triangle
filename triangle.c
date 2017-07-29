@@ -1,6 +1,6 @@
-#include <cs50.h>
+#include <cs50.h>          // if you need SANBOX to run code see   https://run.cs50.net/ 
 #include <stdio.h>
-
+                                                
 bool valid_triangle(float a, float b, float c);
 
 int main(void)
